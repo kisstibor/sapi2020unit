@@ -7,7 +7,7 @@ public class NyomtatoTeszt {
 
 	@Test
 	public void tesztNyomtatas() {
-		FNyomtato fnyomtato = Mockito.mock(FNyomtato.class);
+		final FNyomtato fnyomtato = Mockito.mock(FNyomtato.class);
 		Mockito.spy(fnyomtato);
 		Factory.addMap(FNyomtato.class, ()->fnyomtato);
 		Nyomtato nyomtato = new Nyomtato();

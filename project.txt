@@ -1,6 +1,7 @@
-Zsok Andras		->	Bug-ok létrehozása, hozzáadása és státuszának módosítása
-Szabó Dorottya	->	Daily scrum-ot
-Hunor Szatmari	->	Epic-ek létrehozását, szerkesztését és törlését gondoltam
-Kapas Orsolya	->	1. User létrehozás2. Keresés story cimekben -> találatok kilistázása3. Story modositása -> User assignálása.
-Tünde Koncsárd	->	Az általam kigondolt funkcionalitás az lenne, hogy a home oldalon szereplő story listaelemekre tennék egy dropdown menüt, s az ábrázolná, hogy éppen milyen fázisban van (to do, in progress, review, QA stb).
-Mille Janos		->  Scrum of Scrums-ot szeretném megvalósítani ha más még nem választotta ezt a témát
+Zsok Andras		            ->	Bug-ok létrehozása, hozzáadása és státuszának módosítása
+Szabó Dorottya	          ->	Daily scrum-ot
+Hunor Szatmari	          ->	Epic-ek létrehozását, szerkesztését és törlését gondoltam
+Kapas Orsolya	            ->	1. User létrehozás2. Keresés story cimekben -> találatok kilistázása3. Story modositása -> User assignálása.
+Tünde Koncsárd	          ->	Az általam kigondolt funkcionalitás az lenne, hogy a home oldalon szereplő story listaelemekre tennék egy dropdown menüt, s az ábrázolná, hogy éppen milyen fázisban van (to do, in progress, review, QA stb).
+Mille Janos               ->  Scrum of Scrums-ot szeretném megvalósítani ha más még nem választotta ezt a témát
+Naghi Mirtill - Boglárka  ->  Scrum board megvalósítása (ToDo, In Progress, Done stb. oszlopok, taskok (vagy a már meglévő story-k) pakolgatása, törlése stb.)

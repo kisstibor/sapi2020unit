@@ -4,3 +4,4 @@ Hunor Szatmari	->	Epic-ek létrehozását, szerkesztését és törlését gondo
 Kapas Orsolya	->	1. User létrehozás2. Keresés story cimekben -> találatok kilistázása3. Story modositása -> User assignálása.
 Tünde Koncsárd	->	Az általam kigondolt funkcionalitás az lenne, hogy a home oldalon szereplő story listaelemekre tennék egy dropdown menüt, s az ábrázolná, hogy éppen milyen fázisban van (to do, in progress, review, QA stb).
 Mille Janos		->  Scrum of Scrums-ot szeretném megvalósítani ha más még nem választotta ezt a témát
+Cosma Cristian-Sebastian  ->  1. Story hataridok, kezdet es befejezes monitoring, figyelmeztetesek a hatarido miatt, ido szerinti telyesitmeny kiirasa (be irt orak alapjan). 2. Story Commentek listazas, iras, torles. 3. Story allapotok (To do, in progress, under testing, closed) Amikor closed-ra valt akkor ki iirni mivel mennyi ido telt el.

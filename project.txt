@@ -8,3 +8,4 @@ Cosma Cristian-Sebastian  ->  1. Story hataridok, kezdet es befejezes monitoring
 Naghi Mirtill - Boglárka  ->  Scrum board megvalósítása (ToDo, In Progress, Done stb. oszlopok, taskok (vagy a már meglévő story-k) pakolgatása, törlése stb.)
 Kozma Imre 	-> 	Task kezelese(create, delete, update, list).
 Fekete Bernadett	->  Comment hozzaadasa, szerkesztese, listazasa, torlese storykban
+Oltean Peter Boroka: User letrehozasa, user tipusahoz kotodo funkcionalitasok implementalasa, user torlese 

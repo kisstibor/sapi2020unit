@@ -1,0 +1,25 @@
+A vizsga gyakorlati része a következő:
+
+A meglévő projekten ami megtalálható itten: "https://github.com/kisstibor/sapi2020proj" három funkcionalitással kell kibővíteni ( ez egy projekt kezelő szerszám ahogy a forráskódban is lehet látni). Ere mindenki javaslatot kell tegyen hogy mi lenne az a három funkcionalitás amit ő meg szeretne csinálni. A javaslatot mind egy pull request ere a állományra várom:
+https://github.com/kisstibor/sapi2020unit/blob/main/project.txt
+
+Határidő Dec 23, 2020.
+
+Ha nem sikerül akkor levélben. Kérem a javaslat legyen különböző a többi javaslattól. 
+
+Ere a minimum három új javaslatra az őszes tesztet amelyekből példát mutattam órán, szóval egység teszt, integrációs teszt komponens teszt egy megfelelő mennyiség legyem ami 50% legalább fedi a kódot. Ezt mind pull request ebben a projektben várom. 
+"https://github.com/kisstibor/sapi2020proj"
+
+Ezenfelül szeretném ha minimum 5 darab viselkedés alapú teszt is lenne a funkcionalitás ellenőrzésére amire a pull request ide kell csinálni:
+
+https://github.com/kisstibor/sapi2020test
+
+Ugyan ide egy performancia tesztet is létre kell hozni az órán mutattak alapján.
+
+A projekt beadása Január 12, 2021 24:00.
+
+A vizsga időpontja Január 14, 2021 17:00.
+
+Bármely kérdést levélben varom.
+
+tibor

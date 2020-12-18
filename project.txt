@@ -12,3 +12,5 @@ Fülöp Timea -> Project increment (https://www.scaledagileframework.com/program
 Kozma Imre -> Egy Task kesziteset vallalnam be.(create, delete, update, list)
 Bukkei Edwin -> review gombot szeretnek hozzaadni a storyhoz, hogy lehessen review-ozni, peldaul looks good,needs work, vagy declined.
 Nagy Szabolcs   -> 1. Cimkék hozzáadása (label) | 2. Cimkék storykhoz rendelése | 3. Cimkék eltávolítása a storykról
+Albert Arnold -> story pont hozzarendelese/updatelese, kimutatas keszitese a story pontokrol, story listazasa kriterium szerint
+Oltean Peter Boroka -> User letrehozasa, user tipusahoz kotodo funkcionalitasok implementalasa, user torlese

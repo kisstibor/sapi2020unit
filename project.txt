@@ -9,3 +9,6 @@ Naghi Mirtill - Boglárka  ->  Scrum board megvalósítása (ToDo, In Progress, 
 Kozma Imre 	-> 	Task kezelese(create, delete, update, list).
 Fekete Bernadett	->  Comment hozzaadasa, szerkesztese, listazasa, torlese storykban
 Fülöp Timea -> Project increment (https://www.scaledagileframework.com/program-increment/)
+Kozma Imre -> Egy Task kesziteset vallalnam be.(create, delete, update, list)
+Bukkei Edwin -> review gombot szeretnek hozzaadni a storyhoz, hogy lehessen review-ozni, peldaul looks good,needs work, vagy declined.
+Nagy Szabolcs   -> 1. Cimkék hozzáadása (label) | 2. Cimkék storykhoz rendelése | 3. Cimkék eltávolítása a storykról

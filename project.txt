@@ -14,3 +14,4 @@ Bukkei Edwin -> review gombot szeretnek hozzaadni a storyhoz, hogy lehessen revi
 Nagy Szabolcs   -> 1. Cimkék hozzáadása (label) | 2. Cimkék storykhoz rendelése | 3. Cimkék eltávolítása a storykról
 Albert Arnold -> story pont hozzarendelese/updatelese, kimutatas keszitese a story pontokrol, story listazasa kriterium szerint
 Oltean Peter Boroka -> User letrehozasa, user tipusahoz kotodo funkcionalitasok implementalasa, user torlese
+Osztián Pálma Rozália -> Egy Task-hoz tartozó extra property-k megadása (Priority - mennyi fontos/sürgős egy adott task, egyedi id rendelése a Task-hoz - ami összefügghet majd a hozzá tartozó commit üzenettel, User(ek) és User(típusok) hozzárendelése egy adott Task-hoz) 

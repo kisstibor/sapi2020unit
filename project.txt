@@ -18,3 +18,4 @@ Barabasi Barna -> projekre en a a storykhoz valo fix verziok rendelesevel, modos
 Gergely Szabolcs -> Product owner-ek, Scrum master-ek es a hozzajuk tartozo development team tagjainak listazasa, hozzadasa, szerkesztese, torlese
 Daniel Lorand-Zsolt -> Story kiegeszites azzal, hogy kivegezze el az adott feladatot (assign to). Status hozzadas/frissites hogy milyen allapotban van eppen(status). Fajl feltoltes amiben + informaciok szerepelnek.
 Trimfa Egon	->	Sprint goal based template (Goal, Method, Metrics) letrehozasa, szerkesztese es torlese, Projekt backlog CRUD muveletek
+Osztián Pálma Rozália -> Egy Task-hoz tartozó extra property-k megadása (Priority - mennyi fontos/sürgős egy adott task, egyedi id rendelése a Task-hoz - ami összefügghet majd a hozzá tartozó commit üzenettel, User(ek) és User(típusok) hozzárendelése egy adott Task-hoz) 

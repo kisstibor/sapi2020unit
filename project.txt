@@ -14,3 +14,7 @@ Bukkei Edwin -> review gombot szeretnek hozzaadni a storyhoz, hogy lehessen revi
 Nagy Szabolcs   -> 1. Cimkék hozzáadása (label) | 2. Cimkék storykhoz rendelése | 3. Cimkék eltávolítása a storykról
 Albert Arnold -> story pont hozzarendelese/updatelese, kimutatas keszitese a story pontokrol, story listazasa kriterium szerint
 Oltean Peter Boroka -> User letrehozasa, user tipusahoz kotodo funkcionalitasok implementalasa, user torlese
+Barabasi Barna -> projekre en a a storykhoz valo fix verziok rendelesevel, modositasaval es torleseval foglakoznek
+Gergely Szabolcs -> Product owner-ek, Scrum master-ek es a hozzajuk tartozo development team tagjainak listazasa, hozzadasa, szerkesztese, torlese
+Daniel Lorand-Zsolt -> Story kiegeszites azzal, hogy kivegezze el az adott feladatot (assign to). Status hozzadas/frissites hogy milyen allapotban van eppen(status). Fajl feltoltes amiben + informaciok szerepelnek.
+Trimfa Egon	->	Sprint goal based template (Goal, Method, Metrics) letrehozasa, szerkesztese es torlese, Projekt backlog CRUD muveletek

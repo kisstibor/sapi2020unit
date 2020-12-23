@@ -21,3 +21,5 @@ Trimfa Egon	->	Sprint goal based template (Goal, Method, Metrics) letrehozasa, s
 Osztián Pálma Rozália -> Egy Task-hoz tartozó extra property-k megadása (Priority - mennyi fontos/sürgős egy adott task, egyedi id rendelése a Task-hoz - ami összefügghet majd a hozzá tartozó commit üzenettel, User(ek) és User(típusok) hozzárendelése egy adott Task-hoz) 
 Kapás Krisztina ->  létrehoznék prioritásokat,  a storyhoz hozzárendelném a prioritást, és prioritás alapján szűrném a storykat
 Boróka Szekeres -> időhatár a story nal
+Fábián Renáta Tímea ->  Javaslom a szabadság tervezés részt. Szabadság mikortól meddig flexibilis e vagy nem mezők és ki kell jóvá hagyás. Hozzáadás torles és módosítás + tesztelés.
+Roland Vaszi -> tesztelési terv része: Teszteset hozzáadás lefutás és kiértékelés

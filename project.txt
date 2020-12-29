@@ -23,4 +23,4 @@ Kapás Krisztina ->  létrehoznék prioritásokat,  a storyhoz hozzárendelném 
 Boróka Szekeres -> időhatár a story nal
 Fábián Renáta Tímea ->  Javaslom a szabadság tervezés részt. Szabadság mikortól meddig flexibilis e vagy nem mezők és ki kell jóvá hagyás. Hozzáadás torles és módosítás + tesztelés.
 Roland Vaszi -> tesztelési terv része: Teszteset hozzáadás lefutás és kiértékelés
-Fejér Norbert -> 	Worklog készítés (idő loggolás kiválasztott issue szerint, CRUD műveletek biztosítása, naptárnézet megvalósítása).
+Fejér Norbert -> 	Worklog készítés (idő loggolás kiválasztott issue szerint, CRUD műveletek biztosítása, naptárnézet megvalósítása). 

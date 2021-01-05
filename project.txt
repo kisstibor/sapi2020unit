@@ -1,4 +1,4 @@
-Zsok Andras		->	Bug-ok létrehozása, hozzáadása és státuszának módosítása
+Zsok Andras		->	Bug-ok létrehozása, listázása, törlése és státuszának módosítása
 Szabó Dorottya	->	Daily scrum-ot
 Hunor Szatmari	->	Epic-ek létrehozását, szerkesztését és törlését gondoltam
 Kapas Orsolya	->	1. User létrehozás2. Keresés story cimekben -> találatok kilistázása3. Story modositása -> User assignálása.

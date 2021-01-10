@@ -26,3 +26,5 @@ Roland Vaszi -> tesztelési terv része: Teszteset hozzáadás lefutás és kié
 Kis Szilvia -> 	Projekt létrehozása, elemek hozzáadása (story, epic, bug, stb.), projekt törlése.
 Fejér Norbert -> 	Worklog készítés (idő loggolás kiválasztott issue szerint, CRUD műveletek biztosítása, naptárnézet megvalósítása)
 Gedő László -> taskokon eltöltött órák bevezetése, módosítása és törlése
+Emese Mezei -> A Bugok kezelését (hozzáadás, törlés, szerkesztés, listázás)
+Albert Brigitta -> askhoz időkorlát illetve prioritási érték rendelése, módosítás, törlés és a tesztek.
